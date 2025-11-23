@@ -55,8 +55,11 @@ A key design goal is full **API-free and server-local execution**, enabling depl
                      │
                      ▼
           💬 Final Answer / Summary / Rewrite
----
-
+                        │
+                        ▼
+                ┌───── Output ─────┐
+                │  Display Result  │
+                └──────────────────┘
 ---
 
 點擊 `Deploy`，等待首次模型自動下載
