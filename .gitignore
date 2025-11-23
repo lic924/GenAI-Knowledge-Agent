@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+*.pdf
+*.txt
+chromadb/
+*.db
+models/
+.idea/
+.vscode/
+*.DS_Store
