@@ -1,5 +1,5 @@
 import streamlit as st
-from langchain.vectorstores import Chroma
+from langchain_community.vectorstores.chroma import Chroma
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.llms import Ollama
 from langchain.embeddings import OllamaEmbeddings
