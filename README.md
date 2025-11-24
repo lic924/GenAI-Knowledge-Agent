@@ -98,12 +98,6 @@ A key design goal is full **API-free and server-local execution**, enabling depl
 - 功能調整與介面迭代  
 - 最終部署與收尾
 
-完整紀錄已整理為附件：
-
-📁 `Agent_Development_Log.pdf`（或 `Agent_Development_Log.md`）
-
-> 若需審查教學用，可加入報告附錄；若作業未要求，可存於 Repo 內即可。
-
 ---
 
 ## 🔮 Future Improvement
